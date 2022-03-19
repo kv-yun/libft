@@ -1,6 +1,6 @@
 # libft
 
-Projet en C ayant pour but de créer une librairie de divers fonctions dont certaines sont des reproductions
+Projet en C ayant pour but de s'initier à la syntaxe du language en créant une librairie de divers fonctions
 
 # Commandes
 
