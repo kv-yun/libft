@@ -7,4 +7,4 @@ Projet en C ayant pour but de s'initier à la syntaxe du language en créant une
 Compilation: `Make`
 Recompiler: `Make re`
 Suppression des fichiers .o: `Make clean`
-Suprression de tout les fichiers: `Make fclean`
+Suprression de tous les fichiers: `Make fclean`
